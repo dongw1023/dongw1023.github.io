@@ -19,3 +19,7 @@ github_username: dongw1023
 
 # Build settings
 markdown: kramdown
+
+# paginate: 1
+
+# gems: [jekyll-paginate]
