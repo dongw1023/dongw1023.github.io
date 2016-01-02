@@ -48,6 +48,11 @@
   height: 120px;
 }
 
+.site-header{
+  background: url(assets/header.png) no-repeat center center;
+  background-size: cover;
+}
+
 .header-image{
   display: flex;
   position: absolute;
