@@ -20,8 +20,20 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tortor eros, ultr
   <h3 class="section-title">Contact Infomation</h3>
   <div class="about-contact-text">
     <p>Website: <a href="http://dongw1023.github.io">http://dongw1023.github.io</a></p>
-    <p>GitHub: <a href="https://github.com/dongw1023">https://github.com/dongw1023</a></p>
+    <!--p>GitHub: <a href="https://github.com/dongw1023">https://github.com/dongw1023</a></p-->
     <p>Email: <a href="mailto:dongw1023@gmail.com">dongw1023@gmail.com</a></p>
+
+    <h4 class="section-title">Social Media</h4>
+    <ul>
+    {% if site.github_username %}
+        <li>{% include icon-github.html username=site.github_username %}</li>
+    {% endif %}
+
+    {% if site.twitter_username %}
+        <li>{% include icon-twitter.html username=site.twitter_username %}</li>
+    {% endif %}
+    </ul>
+
   </div>
 </div>
 
