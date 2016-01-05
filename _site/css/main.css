@@ -28,7 +28,8 @@ h1, h2, h3, h4, h5, h6,
 p, blockquote, pre,
 ul, ol, dl, figure,
 .highlight {
-  margin-bottom: 15px; }
+  margin-bottom: 15px;
+  margin-top: 15px; }
 
 /**
  * Images
@@ -529,13 +530,20 @@ hr {
   margin: 0 auto;
   width: 100%; }
 
+.post-header {
+  padding: 0 10px; }
+
 /*********************
 * About
 *********************/
 .about-image {
+  float: left;
   padding: 10px; }
 
 .about-text {
+  padding-top: 10px; }
+
+.about-image-home {
   padding: 10px; }
 
 /*********************

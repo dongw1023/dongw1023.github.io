@@ -95,6 +95,9 @@ hr{
   width: 100%;
 }
 
+.post-header{
+  padding: 0 10px;
+}
 
 /*********************
 * About
@@ -103,13 +106,18 @@ hr{
 }
 
 .about-image{
-  //float:left;
+  float:left;
   padding: 10px;
 }
 
 .about-text{
+  padding-top: 10px;
+}
+
+.about-image-home{
   padding: 10px;
 }
+
 
 
 /*********************
