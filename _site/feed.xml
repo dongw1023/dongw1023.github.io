@@ -6,9 +6,22 @@
 </description>
     <link>http://dongw1023.github.io/</link>
     <atom:link href="http://dongw1023.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 05 Jan 2016 11:25:56 +0000</pubDate>
-    <lastBuildDate>Tue, 05 Jan 2016 11:25:56 +0000</lastBuildDate>
+    <pubDate>Tue, 12 Jan 2016 09:05:48 +0000</pubDate>
+    <lastBuildDate>Tue, 12 Jan 2016 09:05:48 +0000</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>A successful Git branching model</title>
+        <description>&lt;p&gt;&lt;a href=&quot;http://nvie.com/posts/a-successful-git-branching-model/&quot;&gt;A successful Git branching model&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 12 Jan 2016 09:00:00 +0000</pubDate>
+        <link>http://dongw1023.github.io/articles/2016/01/12/git-branching-model.html</link>
+        <guid isPermaLink="true">http://dongw1023.github.io/articles/2016/01/12/git-branching-model.html</guid>
+        
+        
+        <category>articles</category>
+        
+      </item>
     
       <item>
         <title>Welcome to Jekyll!</title>
